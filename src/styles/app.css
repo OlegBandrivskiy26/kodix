@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.App{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: column;
+    font-family: "Inter", sans-serif;
+}
+.bg__app{
+    background-image: url(../img/bg-welcome-page.png);
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+/* general styles */
+.logo{
+    background-image: url(../img/logo.svg);
+    background-size: cover;
+}
+.small__btn{
+    width: 114px;
+    height: 42px;
+    border-radius: 24px;
+    border: 1px solid #E5E5E5;
+    background-color: rgba(255, 255, 255, 1);
+    font-weight: 500;
+    font-size: 14px;
+    font-weight: 17px;
+    color: rgba(0, 0, 0, 1);
+    cursor: pointer;
+}
+.small__btn:hover{
+    border: 1px solid #2C9900;
+    background-color: #31AA00;
+    color: #fff;
+}
+.btn__green{
+    color: #fff;
+    border: 1px solid #2C9900;
+    background-color: #31AA00;
+}
+.btn__green:hover{
+    border: 1px solid #E5E5E5;
+    background-color: #fff;
+    color: #000;
+}

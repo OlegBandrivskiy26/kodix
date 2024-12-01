@@ -1,68 +1,68 @@
-.postpage{
-    width: 100%;
-    height: 100vh;
-    display: flex;
-    align-items: center;
-    justify-content: flex-start;
-    flex-direction: column;
+.postpage {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-direction: column;
 }
-.postpage__container{
-    width: 90%;
-    height: 80%;
-    display: flex;
-    align-items: flex-start;
-    justify-content: flex-start;
-    margin-top: 50px;
+.postpage__container {
+  width: 90%;
+  height: 80%;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  margin-top: 50px;
 }
-.post__info{
-    width: 50%;
-    height: 60%;
-    display: flex;
-    align-items: flex-start;
-    justify-content: space-between;
-    flex-direction: column;
+.post__info {
+  width: 50%;
+  height: 60%;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex-direction: column;
 }
-.others__posts{
-    width: 50%;
-    height: 100%;
-    display: flex;
-    align-items: flex-end;
-    flex-direction: column;
+.others__posts {
+  width: 50%;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-direction: column;
 }
-.postpage__img{
-    width: 563px;
-    height: 218px;
-    border-radius: 24px;
+.postpage__img {
+  width: 563px;
+  height: 218px;
+  border-radius: 24px;
 }
-.post__info h1{
-    text-align: start;
+.post__info h1 {
+  text-align: start;
 }
-.post__info h5{
-    text-align: start;
+.post__info h5 {
+  text-align: start;
 }
-.postpage__share__container{
-    width: 25% !important;
+.postpage__share__container {
+  width: 25% !important;
 }
-.postpage__info__author{
-    width: 29%;
+.postpage__info__author {
+  width: 29%;
 }
 .postspage__container {
-    width: 90%;
-    height: 20%;
-    display: flex;
-    align-items: flex-start;
-    justify-content: space-evenly;
-    border-radius: 24px;
-    cursor: pointer;
+  width: 90%;
+  height: 20%;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-evenly;
+  border-radius: 24px;
+  cursor: pointer;
 }
 .postpage__text {
-    margin-top: 20px;
-    width: 45%;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-evenly; 
+  margin-top: 20px;
+  width: 45%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
 }
-.img__postpage{
-    width: 45% !important;
-    border-radius: 20px;
+.img__postpage {
+  width: 45% !important;
+  border-radius: 20px;
 }

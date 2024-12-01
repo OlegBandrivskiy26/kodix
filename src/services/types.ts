@@ -8,17 +8,17 @@ export interface Post {
   date: string;
   loged: boolean;
 }
-  
-export type PostResponse = Post[]; 
+
+export type PostResponse = Post[];
 
 export interface logedInProps {
   setIsLogedIn: React.Dispatch<React.SetStateAction<boolean>>;
 }
-export interface isLogedInProps{
+export interface isLogedInProps {
   isLogedIn: boolean;
   setIsLogedIn: React.Dispatch<React.SetStateAction<boolean>>;
 }
-export interface UserData{
+export interface UserData {
   email: string;
   password: string;
   name: string;

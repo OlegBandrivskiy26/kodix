@@ -1,191 +1,191 @@
-.signup{
-    width: 100%;
-    height: 100vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-    background-color: rgba(255, 255, 255, 1);
+.signup {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
 }
-.logo__signup{
-    width: 240px;
-    height: 42px;
-    margin-bottom: 40px;
+.logo__signup {
+  width: 240px;
+  height: 42px;
+  margin-bottom: 40px;
 }
-.form__container{
-    width: 751px;
-    height: 586px;
-    border: 2px solid #000;
-    border-right: none;
-    border-radius: 25px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+.form__container {
+  width: 751px;
+  height: 586px;
+  border: 2px solid #000;
+  border-right: none;
+  border-radius: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
-.signup__input__grp{
-    width: 60%;
-    height: 100%;
-    background-color: #fff;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    border-radius: 25px 0 0 25px;
+.signup__input__grp {
+  width: 60%;
+  height: 100%;
+  background-color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 25px 0 0 25px;
 }
-.input__container{
-    width: 90%;
-    height: 90%;
-    display: flex;
-    align-items: flex-start;
-    justify-content: space-between;
-    flex-direction: column;
+.input__container {
+  width: 90%;
+  height: 90%;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex-direction: column;
 }
-.signup__input__title{
-    font-weight: 600;
-    font-size: 24px;
-    line-height: 34px;
+.signup__input__title {
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 34px;
 }
-.input__grp{
-    width: 100%;
-    height: 15%;
-    display: flex;
-    align-items: flex-start;
-    justify-content: space-between;
-    flex-direction: column;
+.input__grp {
+  width: 100%;
+  height: 15%;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex-direction: column;
 }
-.input__grp label{
-    font-weight: 500;
-    font-size: 14px;
-    line-height: 17px;
+.input__grp label {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
 }
-.input{
-    width: 100%;
-    height: 48px;
+.input {
+  width: 100%;
+  height: 48px;
 }
-.inputs__grp{
-    width: 100%;
-    height: 16%;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+.inputs__grp {
+  width: 100%;
+  height: 16%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
-.input__grp__small{
-    width: 45%;
-    height: 100%;
-    display: flex;
-    align-items: flex-start;
-    justify-content: space-between;
-    flex-direction: column;
+.input__grp__small {
+  width: 45%;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex-direction: column;
 }
-.green__link{
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 17px;
-    color: rgba(4, 170, 0, 1);
+.green__link {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  color: rgba(4, 170, 0, 1);
 }
-.btn__signin{
-    width: 100% ;
-    height: 50px;
-    background-color: rgba(4, 170, 0, 1) !important;
-    justify-content: space-between !important;
+.btn__signin {
+  width: 100%;
+  height: 50px;
+  background-color: rgba(4, 170, 0, 1) !important;
+  justify-content: space-between !important;
 }
 
-.link{
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 17px;
-    color: rgba(32, 32, 32, 1) !important;
-    text-decoration: none;
+.link {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  color: rgba(32, 32, 32, 1) !important;
+  text-decoration: none;
 }
-.link span{
-    color: rgba(4, 170, 0, 1);
+.link span {
+  color: rgba(4, 170, 0, 1);
 }
-.signup__info__grp{
-    width: 40%;
-    height: 100%;
-    background-color: #000;
-    border-radius: 0 20px 20px 0;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+.signup__info__grp {
+  width: 40%;
+  height: 100%;
+  background-color: #000;
+  border-radius: 0 20px 20px 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
-.signup__info__container{
-    width: 85%;
-    height: 90%;
-    display: flex;
-    align-items: flex-start;
-    justify-content: space-between;
-    flex-direction: column;
+.signup__info__container {
+  width: 85%;
+  height: 90%;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex-direction: column;
 }
-.info__title{
-    font-weight: 600;
-    font-size: 24px;
-    line-height: 34px;
-    color: #fff;
+.info__title {
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 34px;
+  color: #fff;
 }
-.info__txt__container{
-    width: 100%;
-    height: 65%;
-    display: flex;
-    align-items: flex-start;
-    justify-content: space-between;
-    flex-direction: column;
+.info__txt__container {
+  width: 100%;
+  height: 65%;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex-direction: column;
 }
-.info__txt{
-    width: 100%;
-    height: 25%;
-    display: flex;
-    align-items: flex-start;
-    justify-content: space-between;
+.info__txt {
+  width: 100%;
+  height: 25%;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
 }
-.icons{
-    width: 24px;
-    height: 24px;
-    background-size: cover;
+.icons {
+  width: 24px;
+  height: 24px;
+  background-size: cover;
 }
-.dolar__icon{
-    background-image: url(../img/dolar-icon.png);
+.dolar__icon {
+  background-image: url(../img/dolar-icon.png);
 }
-.block__icon{
-    background-image: url(../img/blocks.png);
+.block__icon {
+  background-image: url(../img/blocks.png);
 }
-.man__icon{
-    background-image: url(../img/man-icon.png);
+.man__icon {
+  background-image: url(../img/man-icon.png);
 }
-.star__icon{
-    background-image: url(../img/star-green.png);
+.star__icon {
+  background-image: url(../img/star-green.png);
 }
-.info__txt__grp{
-    width: 87%;
-    height: 70%;
-    display: flex;
-    align-items: flex-start;
-    justify-content: space-between;
-    flex-direction: column;
+.info__txt__grp {
+  width: 87%;
+  height: 70%;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex-direction: column;
 }
-.info__txt__grp h3{
-    font-weight: 600;
-    font-size: 14px;
-    line-height: 17px;
-    color: #fff;
+.info__txt__grp h3 {
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 17px;
+  color: #fff;
 }
-.info__txt__grp p{
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 24px;
-    color: rgba(72, 72, 72, 1);
+.info__txt__grp p {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: rgba(72, 72, 72, 1);
 }
-.callus{
-    font-size: 14px;
-    font-weight: 600;
-    line-height: 17px;
-    color: #fff;
+.callus {
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 17px;
+  color: #fff;
 }
-.callus span{
-    color: rgba(31, 255, 26, 1);
+.callus span {
+  color: rgba(31, 255, 26, 1);
 }
-.error{
-    font-size: 14px;
-    font-weight: 400;
-    line-height: 17px;
-    color: red;
+.error {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 17px;
+  color: red;
 }

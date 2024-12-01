@@ -1,55 +1,55 @@
-.signin__input__grp{
-    height: 85%;
+.signin__input__grp {
+  height: 85%;
 }
-.input__grp__signin{
-    height: 19%;
+.input__grp__signin {
+  height: 19%;
 }
-.signin__info__container{
-    width: 80%;
-    height: 22%;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    flex-direction: column;
+.signin__info__container {
+  width: 80%;
+  height: 22%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: column;
 }
-.info__logo__grp{
-    width: 65%;
-    display: flex;
-    align-items: center;
-    justify-content: space-evenly;
+.info__logo__grp {
+  width: 65%;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
 }
-.info__logo__grp h1{
-    font-weight: 700;
-    font-size: 24px;
-    line-height: 28px;
-    color: #fff;
+.info__logo__grp h1 {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  color: #fff;
 }
-.icon__pro{
-    width: 41px;
-    height: 24px;
-    background-color: #000;
-    border: 1px solid rgba(31, 255, 26, 1);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    border-radius: 4px;
+.icon__pro {
+  width: 41px;
+  height: 24px;
+  background-color: #000;
+  border: 1px solid rgba(31, 255, 26, 1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 4px;
 }
-.icon__pro h5{
-    font-weight: 500;
-    font-size: 12px;
-    line-height: 15px;
-    color: rgba(31, 255, 26, 1);
+.icon__pro h5 {
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 15px;
+  color: rgba(31, 255, 26, 1);
 }
-.signin__info__container p{
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 24px;
-    color: rgba(72, 72, 72, 1);
+.signin__info__container p {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: rgba(72, 72, 72, 1);
 }
-.signin__info__container h4{
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 20px;
-    color: rgba(31, 255, 26, 1);
-    text-decoration: underline rgba(31, 255, 26, 1) solid ;
+.signin__info__container h4 {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
+  color: rgba(31, 255, 26, 1);
+  text-decoration: underline rgba(31, 255, 26, 1) solid;
 }
